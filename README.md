@@ -8,3 +8,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   - June 2021 - March 2023 bachelor's degree in Business Computer from Rajamangala University of Technology Isan.
   - May 2018 - May 2020 bachelor's degree in Business Computer from Nakhonratchasima Vocational College.
   - May 2015 - March 2018 bachelor's degree in Business Computer from Nakhonrahasima Technical College.
+
+### Technical Skills 
+  - Web Technologies & Frameworks:
+    - HTML5, CSS3, Bootstrap 5, PHP
+  - Scripts/UI
+    - JavaScript, jQuery
+  - Database and ORM
+    - MySQL
+  - Web Debug Tools
+    - Chrome developer tools
+  - Versioning and other tools
+    - Git
