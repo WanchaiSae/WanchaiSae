@@ -13,11 +13,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   - Inventory Management
     - It is a manage products related to car carpets using the FIFO principle.
     - Tools: HTML5, CSS3, Javascript, jQuery, Bootstrap 5, PHP, MySQL, SweetAlert2
-    - Ref: [Source Code](https://github.com/seayprem/sok).
+    - LINK: [Source Code](https://github.com/seayprem/sok).
   - Materials Management System
     - It is a manage office equipment using the FIFO principle.
     - Tools: HTML5, CSS3, Javascript, jQuery, Bootstrap 5, PHP, MySQL, SweetAlert2
-    - Ref: [Source Code](https://github.com/seayprem/pmj/).
+    - LINK: [Source Code](https://github.com/seayprem/pmj/).
 
 ### Technical Skills 
   - Web Technologies & Frameworks: HTML5, CSS3, Bootstrap 5, PHP
