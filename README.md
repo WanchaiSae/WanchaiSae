@@ -25,3 +25,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   - Database and ORM: MySQL
   - Web Debug Tools: Chrome developer tools
   - Versioning and other tools: Git
+  - Microsoft Tools: Excel
